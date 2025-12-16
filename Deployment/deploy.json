@@ -5,7 +5,7 @@
     "parameters": {
         "suffixName": {
             "type": "string",
-            "defaultValue": "z12",
+            "defaultValue": "cls0001",
             "minLength": 3,
             "maxLength": 10,
             "metadata": {
